@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ingreso-d676b": {
+      "hosting": {
+        "ingresoEgreso": [
+          "ingreso-d676b"
+        ]
+      }
+    }
+  }
+}
